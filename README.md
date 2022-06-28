@@ -1,8 +1,8 @@
-# (Application Name)
+# Dino Ipsum
 
-#### (Brief Description of Application)
+#### Generates dino ipsum
 
-#### By (Joseph Jack)  [GitHub Pages link]
+#### By Joseph Jack & Derrak Richard [GitHub Pages link]
 
 ## Technologies Used
 
